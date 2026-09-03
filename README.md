@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ayush 👋
 
-<!--
-**ayushkd19/ayushkd19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Learner| Developer | Builder
 
-Here are some ideas to get you started:
+I'm currently learning:
+- C / C++
+- DSA & Competitive Programming
+- Web Development
+- Blockchain & Web3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Working On
+- Open-source projects
+- Personal projects
+- Learning and building every day
+
+### 🛠️ Tech Stack
+C | C++ | JavaScript | Git | GitHub
+
+### 📫 Connect With Me
+- Portfolio: ayushkd.com
+- GitHub: @ayushkd19
+- x: @ayushkd19
