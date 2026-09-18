@@ -1,6 +1,6 @@
 # Hi, I'm Ayush 👋
 
-### Learner| Developer | Builder
+### Learner | Developer | Builder
 
 I'm currently learning:
 - C / C++
